@@ -3,6 +3,9 @@
 <br>I'm kind of getting exitement that I can make interactable medium.
 <br>Hope this feeling grows to be joy and last long.
 
+<div align=center>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+</div>
 
 <!--
 **kkm910924/kkm910924** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
