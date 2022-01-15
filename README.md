@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there. Thanks for visiting 👋
 🐣 I’m currently learning FrontEnd, BackEnd knowledge & skills.
-I'm kind of getting exitement that I can make interactable medium.
-Hope this feeling grows to be joy and last long.
+<br>I'm kind of getting exitement that I can make interactable medium.
+<br>Hope this feeling grows to be joy and last long.
 
 
 <!--
